@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ book\r\n\ \r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Extends\ Publication\ makes\ this\ class\ the\ subclass\ of\ publication\r\n\ methods\ can\ be\ inherited\ from\ the\ superclass\ Publication\r\n
+comment1.params=title\ year\ author\ publisher
+comment1.target=Book(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Create\ a\ book.\ \r\n\ \r\n\ @param\ title\ \ \ \ \ The\ title\ of\ the\ book.\r\n\ @param\ author\ \ \ \ The\ title\ of\ the\ book.\r\n\ @param\ publisher\ The\ publisher\ of\ the\ book.\r\n\ @param\ year\ \ \ \ \ \ The\ year\ when\ the\ book\ was\ published.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment2.text=\r\n\ Get\ the\ author\ of\ the\ book\r\n\ \ \r\n\ @return\ \ The\ author\ of\ the\ book\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPublisher()
+comment3.text=\r\n\ Get\ the\ publisher\ of\ the\ book\r\n\ \ \r\n\ @return\ \ The\ publisher\ of\ the\ book\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Get\ the\ details\ of\ the\ book\r\n\ \ \r\n\ @return\ \ The\ details\ of\ the\ book\ including\ \r\n\ \ \ \ \ \ \ \ \ \ the\ title,\ author,\ publisher\ and\ year\r\n
+comment5.params=obj
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Check\ if\ the\ book\ is\ the\ same\ as\ the\ given\ one.\r\n\ \r\n\ @param\ obj\ The\ given\ object.\r\n\ \r\n\ @return\ true\ if\ the\ book\ and\ the\ given\ object\ are\ the\ same\ \r\n\ \ \ \ \ \ \ \ \ or\ they\ have\ the\ same\ title,\ author,\ publisher\ and\ year;\ \r\n\ \ \ \ \ \ \ \ \ false\ otherwise\r\n
+numComments=6

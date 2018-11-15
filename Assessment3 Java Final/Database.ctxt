@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Database
+comment0.text=\r\n\ A\ database\ for\ collections\ of\ publications,\ e.g.\ books\ and\ journals\r\n\ \r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Database()
+comment1.text=\r\n\ Create\ a\ new\ database\r\n
+comment2.params=newPublication
+comment2.target=void\ addPublication(Publication)
+comment2.text=\r\n\ Add\ a\ new\ publicayion\r\n\ \r\n\ @param\ newPublication\ The\ publication\ to\ be\ added\r\n
+comment3.params=
+comment3.target=int\ getTotal()
+comment3.text=\r\n\ Get\ the\ total\ number\ of\ collections\ \r\n\ \r\n\ @return\ The\ total\ number\ of\ collections\ \ \r\n
+comment4.params=
+comment4.target=void\ printList()
+comment4.text=\ \r\n\ This\ is\ the\ print\ list\ method\ that\ prints\ the\ string\ returned\ by\ the\ toString()\ method\ from\ 1b)\r\n\ for(Journal\ j\:\ journalList)\r\n\ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ System.out.print(j.toString());\r\n\ \ \ \ \ \ \ }\r\n\ Print\ the\ details\ of\ all\ collections\r\n
+comment5.params=year
+comment5.target=void\ printPublicationsInYear(int)
+comment6.params=year
+comment6.target=void\ deletePublicationsBefore(int)
+numComments=7

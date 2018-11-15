@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Journal
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ Journal\r\n\ \r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Extends\ Publication\ makes\ this\ class\ the\ subclass\ of\ publication\r\n\ methods\ can\ be\ inherited\ from\ the\ superclass\ Publication\r\n
+comment1.params=title\ year\ month
+comment1.target=Journal(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Create\ a\ journal.\ \r\n\ \r\n\ @param\ title\ \ \ \ \ The\ title\ of\ the\ journal.\r\n\ @param\ month\ \ \ \ \ The\ month\ when\ the\ journal\ was\ published.\r\n\ @param\ year\ \ \ \ \ \ The\ year\ when\ the\ journal\ was\ published.\ \ \ \ \ \r\n
+comment2.params=obj
+comment2.target=boolean\ equals(java.lang.Object)
+comment2.text=\r\n\ \r\n
+comment3.params=
+comment3.target=int\ getMonth()
+comment3.text=\r\n\ Get\ the\ month\ of\ the\ journal\ when\ it\ was\ published\r\n\ \ \r\n\ @return\ \ The\ month\ of\ the\ journal\ when\ it\ was\ published\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=month
+comment5.target=java.lang.String\ getMonthName(int)
+comment5.text=\r\n\ To\ get\ the\ first\ three\ letters\ of\ a\ given\ month's\ name\r\n\ \r\n\ @param\ month\ A\ given\ month\r\n\ @return\ \ \ The\ first\ three\ letters\ of\ the\ given\ month's\ name\r\n
+numComments=6
